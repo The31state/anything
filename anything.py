@@ -47,7 +47,7 @@ def ask_questions():
     print("\nSoldier, take a breath. You've fought hard. Now, it's time to indulge.")
 
     # Question 1
-    print("\n1. Is today that sacred Tuesday when only the sultry embrace of tacos can satisfy you?")
+    print("\n1. Is today that sacred Tuesday when the thought of soft, steamy tacos wrapping around your craving makes you weak with desire?")
     print("1) Yes, I'm surrendering to Taco Tuesday.")
     print("2) No, tempt me further.")
     while True:
